@@ -3,7 +3,7 @@ import java.awt.Point
 
 fun main() {
     listOf(
-        Day03(),
+        Day04(),
     ).forEach {
         it.printHeader()
         println("Part 1: " + it.executePart1())
